@@ -1,0 +1,18 @@
+{
+  "contacts": [
+    {
+      "name": "Girl",
+      "lastName": "Beautiful",
+      "phone": "996 666 666",
+      "image": "https://images.pexels.com/photos/14339105/pexels-photo-14339105.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 1672344187252
+    },
+    {
+      "name": "Meda",
+      "lastName": "qwe",
+      "phone": "99992222",
+      "image": "https://images.pexels.com/photos/6263027/pexels-photo-6263027.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "id": 1672344275187
+    }
+  ]
+}
